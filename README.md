@@ -6,11 +6,15 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🖥️ A passionate Self-taught Front-end developer
+- ♥️ Playing with 3D un Spline Design
+- ❄️ Currently learning Web Development by Self
+- 🤝 I’m available for freelancing.
+
+- 💬 Ask me about **Reactjs**
+
+- 📫 How to reach me **guru85111@gmail.com**
+- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br>
 
