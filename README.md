@@ -17,7 +17,10 @@
 - 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1v6OK_dzKvp-6AxuANNHiEW43bLmZH-5-/view?usp=sharing)
 
 <br>
+</br>
 
+-  **My GitHub Analytics**
+</br>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -38,22 +41,24 @@
 </tr>
 </table>
 <!--- stats (end) -->
+</br></br>
 
 -  **Techinical Stack**
-
+</br>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,vscode,materialui,npm,StackOverflow,bootstrap,notion,git,discord,figma,github,atom,bash,discord,gmail,htmx,php,vercel,md,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,vscode,materialui,npm,stackoverflow,bootstrap,notion,git,discord,figma,github,atom,bash,discord,gmail,htmx,php,vercel,md,py&perline=14" />
   </a>
 </p>
 
 
-
+</br>
 
 </br>
 
 -  **Contact Links**
+  </br>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/guru-m-guru/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
