@@ -14,7 +14,7 @@
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **guru85111@gmail.com**
-- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1v6OK_dzKvp-6AxuANNHiEW43bLmZH-5-/view?usp=sharing)
 
 <br>
 
@@ -23,7 +23,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=React&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=black)
 
 <br>
 
