@@ -39,6 +39,15 @@
 </table>
 <!--- stats (end) -->
 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,notion,git,discord,figma,github,macos,md,materialui,py&perline=14" />
+  </a>
+</p>
+
+
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
