@@ -7,7 +7,7 @@
 <br>
 
 - 🖥️ A passionate Self-taught Front-end developer
-- ♥️ Playing with 3D un Spline Design
+- ♥️ Playing with 3D in Spline Design
 - ❄️ Currently learning Web Development by Self
 - 🤝 I’m available for freelancing.
 
