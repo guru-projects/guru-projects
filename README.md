@@ -11,7 +11,7 @@
 - ❄️ Currently learning Web Development by Self
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **React js**
 
 - 📫 How to reach me **guru85111@gmail.com**
 - 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1v6OK_dzKvp-6AxuANNHiEW43bLmZH-5-/view?usp=sharing)
