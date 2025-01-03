@@ -14,7 +14,7 @@
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **guru85111@gmail.com**
-- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1v6OK_dzKvp-6AxuANNHiEW43bLmZH-5-/view?usp=sharing)
+- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18MGV2JZY2dWUQABqnR54xFIbXHt6eZZS/view?usp=sharing)
 
 <br>
 </br>
