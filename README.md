@@ -19,6 +19,7 @@
 <br>
 </br>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Guru?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)
 -  **My GitHub Analytics**
 </br>
 
