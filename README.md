@@ -1,20 +1,20 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Guru+...;Self-taught+Front-End+Developer;Computer+Science+Student;Spline+3D+Newbie;Active+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Guru+...<3;Self-taught+Developer;Computer+Science+Student;Java;DSA;Spring+Boot;Active+Learner"></a>
 </p>
 
 <br>
 
-- 🖥️ A passionate Self-taught Front-end developer
-- ♥️ Playing with 3D in Spline Design
-- ❄️ Currently learning Web Development
-- 🤝 I’m available for freelancing.
+- 🖥️ A passionate self-taught developer
+  
+- ♥️ Learning Backend java and spring boot
+- ❄️ Currently learning Java, Data Structures & Algorithms (DSA) in Java for the past few months, and recently started learning Spring Boot
+- 🤝 I’m available for freelancing
+- 📫 How to reach me: **guru85111@gmail.com**
+- 📁 This is my resume [my resume](https://drive.google.com/file/d/18MGV2JZY2dWUQABqnR54xFIbXHt6eZZS/view?usp=sharing).
+- 🧑💻 My LeetCode profile: [LeetCode](https://leetcode.com/u/Guru_Guru/).
 
-- 💬 Ask me about **React js**
-
-- 📫 How to reach me **guru85111@gmail.com**
-- 🛜 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18MGV2JZY2dWUQABqnR54xFIbXHt6eZZS/view?usp=sharing)
 
 <br>
 </br>
@@ -57,7 +57,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,vscode,materialui,npm,stackoverflow,bootstrap,notion,git,discord,figma,github,atom,bash,gmail,htmx,php,vercel,md,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,vite,tailwind,vscode,materialui,npm,stackoverflow,bootstrap,notion,git,discord,figma,github,atom,bash,gmail,htmx,php,vercel,md,py&perline=14" />
   </a>
 </p>
 
